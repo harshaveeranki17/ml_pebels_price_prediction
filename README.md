@@ -1,4 +1,4 @@
-# Gemstone Price Prediction - Utkarsh Gaikwad
+# Pebels Price Prediction 
 
 ### Introduction About the Data :
 
